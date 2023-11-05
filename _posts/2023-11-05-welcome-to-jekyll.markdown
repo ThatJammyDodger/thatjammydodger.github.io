@@ -2,9 +2,8 @@
 layout: single
 title:  "Welcome to Jekyll! (yeah I need to do a lot of tidying up round here)"
 date:   2023-11-05 15:47:04 +0000
-categories: jekyll update
 ---
-No idea what's going on here :(
+No idea what's going on here sadly. Would quite like to add LaTeX support on here in the near future if I get time.
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
