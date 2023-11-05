@@ -1,9 +1,9 @@
 ---
 layout: single
-title:  "Welcome to Jekyll! (yeah I need to do a lot of tidying up round here)"
+title:  "Post 0: Welcome to Jekyll!"
 date:   2023-11-05 15:47:04 +0000
 ---
-No idea what's going on here sadly :( 
+Not much idea what's going on here sadly :( 
 Would quite like to add LaTeX support on here in the near future if I get time (and begin to understand what is going on!)
 
 Here's a code snippet describing my work algorithm:
