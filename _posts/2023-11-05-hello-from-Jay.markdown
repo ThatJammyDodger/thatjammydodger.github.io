@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Hello from Jay (me)
+title: Hello from me
 date: 2023-11-05 16:43:45 +0000
 ---
 Hi!

@@ -18,7 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Jay's Webhome
+title: Jay's Virtual Home
+subtitle: A place to chill on the web
+name: Jay Ambadkar
 email: ambadkarj123@gmail.com
 domain: thatjammydodger.github.io
 url: https://thatjammydodger.github.io
@@ -46,11 +48,23 @@ defaults:
       type: posts
     values:
       layout: single
+      show_date: true
       author_profile: true
       read_time: true
       comments: true
       share: true
       related: true
+
+
+minimal_mistakes_skin: "air"
+locale: en-GB
+logo: "/assets/images/J100x100.jpg"
+
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "thatjammydodger"
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
