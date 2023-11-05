@@ -18,20 +18,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Jay's Virtual Home
-subtitle: A place to chill on the web
-name: Jay Ambadkar
-email: ambadkarj123@gmail.com
-domain: thatjammydodger.github.io
-url: https://thatjammydodger.github.io
+title: "Jay's Virtual Home"
+subtitle: "A place to chill on the web"
+name: "Jay Ambadkar"
+email: "ambadkarj123@gmail.com"
+domain: "thatjammydodger.github.io"
+url: "https://thatjammydodger.github.io"
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi! Seems you've found my site and I hope you like it. Commiserations if not.
+  "Hi! Seems you've found my site and I hope you like it. Commiserations if not.
   Really it's just a place for me to hang out digitally and put some stuff I like on.
-  Have a look around and let me know if you have any thoughts on stuff I've written :)
+  Have a look around and let me know if you have any thoughts on stuff I've written :)"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: BlesssedPear
-github_username:  ThatJammyDodger
+twitter_username: "BlesssedPear"
+github_username:  "ThatJammyDodger"
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
@@ -57,7 +57,7 @@ defaults:
 
 
 minimal_mistakes_skin: "air"
-locale: en-GB
+locale: "en-GB"
 logo: "/assets/images/J100x100.jpg"
 
 comments:
