@@ -59,7 +59,7 @@ defaults:
 
 minimal_mistakes_skin: "air"
 locale: "en-GB"
-logo: "/assets/images/J90x90.jpg"
+logo: "/assets/images/J88x88.png"
 
 comments:
   provider: "disqus"
