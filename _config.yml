@@ -30,7 +30,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Have a look around and let me know if you have any thoughts on stuff I've written :)"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: "BlesssedPear"
+twitter:
+  username: "BlesssedPear"
 github_username:  "ThatJammyDodger"
 
 # Build settings
@@ -49,7 +50,7 @@ defaults:
     values:
       layout: single
       show_date: true
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true
@@ -65,6 +66,47 @@ comments:
   disqus:
     shortname: "thatjammydodger"
 
+author:
+  name: "Jay"
+  avatar: "/assets/images/icon.png"
+  bio: "Aspiring maths (and maybe CS) student. Applying for university while studying for my A levels, having finished with GCSEs. Out to explore."
+  location: "Somewhere, UK, Near Mars"
+  links:
+    - label: "X (formerly Twitter)"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/BlesssedPear"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/jay.ams_/"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCSEe39hrg0JbrrFzXvuefrw"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ThatJammyDodger"
+      
+footer:
+  links:
+    - label: "X (formerly Twitter)"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/BlesssedPear"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ThatJammyDodger"
+
+timezone: Europe/London
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+compress_html:
+  clippings: all
+  ignore:
+    envs: development  # disable compression in dev environment
 
 # Exclude from processing.
 # The following items will not be processed, by default.
