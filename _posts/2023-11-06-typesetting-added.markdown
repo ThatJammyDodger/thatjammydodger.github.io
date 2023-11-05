@@ -19,6 +19,6 @@ $$ax^2+bx+c=0 \implies x=\frac{-b \pm \sqrt{b^2-4ac}}{2a}$$
 
 :)
 
-(Note to self: use "{<span>%</span> include math_jax.html <span>%</span>}" to add it to the pages where it is needed)
+(Note to self: should automatically work on all pages, if not then something has gone badly wrong)
 
 {% include math_jax.html %}
