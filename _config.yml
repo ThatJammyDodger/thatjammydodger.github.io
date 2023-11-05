@@ -59,7 +59,7 @@ defaults:
 
 minimal_mistakes_skin: "air"
 locale: "en-GB"
-logo: "/assets/images/J100x100.jpg"
+logo: "/assets/images/J90x90.jpg"
 
 comments:
   provider: "disqus"
@@ -85,7 +85,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ThatJammyDodger"
     - label: "Email"
-      icon: "fab fa-fw fa-regular fa-envelope"
+      icon: "fab fa-fw fa-envelope"
       url: "mailto:ambadkarj123@gmail.com"
       
 footer:
