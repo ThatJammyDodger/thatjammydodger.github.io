@@ -1,8 +1,9 @@
 ---
 layout: single
 title: Trying to find the general 'cubic equation'
-date: 2023-11-07 19:20
+date: 2023-11-08 20:20
 categories: maths equations
+last_modified_at: 2023-11-08 20:45
 ---
 
 Trust me, I've specially chosen the word *trying* in the title for a reason...
