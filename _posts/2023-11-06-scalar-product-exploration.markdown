@@ -3,6 +3,8 @@ layout: single
 title: Deriving the scalar product for vectors formula with the cosine rule and Euclidean geometry
 date: 2023-11-06 22:20
 categories: maths vectors
+header:
+    teaser: /assets/images/dot-cover.jpg
 ---
 
 The scalar (or dot) product of two vectors is used for finding angles between where two direction vectors would intersect, and that's pretty cool. What's more is that this works in more than 2 dimensions, such as 3D spaces and probably has all sorts of real world applications as vectors usually do.

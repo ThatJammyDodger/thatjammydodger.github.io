@@ -3,10 +3,14 @@ layout: single
 title: Trying to find the general 'cubic equation'
 date: 2023-11-08 20:20
 categories: maths equations
-last_modified_at: 2023-11-08 20:45
+last_modified_at: 2023-11-16
+header:
+    teaser: /assets/images/cubics-pexels-stock.jpg
 ---
 
 Trust me, I've specially chosen the word *trying* in the title for a reason...
+
+---
 
 Finding ways of reducing seemingly complicated functions into something that becomes easy to solve is one thing I enjoy in maths, that is, the process of generalisation.
 
@@ -22,15 +26,15 @@ So, let's use the transformation \\(x=y-\frac{1}{3}a\\):
 
 $$
 \begin{align*}
-\left(y-\frac{1}{3}a\right)^3 + a\left(y-\frac{1}{3}a\right)^2 + b\left(y-\frac{1}{3}a\right) + c &=0
+\small\left(y-\frac{1}{3}a\right)^3 + a\left(y-\frac{1}{3}a\right)^2 + b\left(y-\frac{1}{3}a\right) + c &=0
 \newline
 \newline
 
-y^3 + \left(a-a\right)y^2 + \left(\frac{1}{3}a^2-\frac{2}{3}a^2+b\right)y + \left(-\frac{1}{27}a^3 + \frac{1}{9}a^3 - \frac{1}{3}ab + c\right)&=0
+\small{y^3} + \small\left(a-a\right)y^2 + \left(\frac{1}{3}a^2-\frac{2}{3}a^2+b\right)y + \left(-\frac{1}{27}a^3 + \frac{1}{9}a^3 - \frac{1}{3}ab + c\right)&=0
 \newline
 \newline
 
-\implies y^3 + \left(b-\frac{1}{3}a^2\right)y + \left(\frac{2}{27}a^3 - \frac{1}{3}ab + c\right)&=0.
+\implies \small{y^3} + \small\left(b-\frac{1}{3}a^2\right)y + \left(\frac{2}{27}a^3 - \frac{1}{3}ab + c\right)&=0.
 
 \end{align*}
 $$
@@ -72,15 +76,60 @@ u^3 &= \frac{-27B \pm \sqrt{27\left(27B^2 + 4A^3\right)}}{54}
 \implies u^3 &= -\frac{1}{2}B \pm \frac{\sqrt{3\left(27B^2 + 4A^3\right)}}{18}
 \newline\newline
 
-\implies u^3 &= -\frac{1}{2}B \pm \frac{\sqrt{27B^2 + 4A^3}}{6\sqrt{3}}
+\implies u^3 &=  \frac{1}{18} \left( \pm \sqrt{3}\sqrt{27B^2 + 4A^3} - 9B \right)
 \newline\newline
 
-\implies u &= \sqrt[3]{-\frac{1}{2}B \pm \frac{\sqrt{27B^2 + 4A^3}}{6\sqrt{3}}}
+\implies u &= \sqrt[3]{\frac{1}{18} \left( \pm \sqrt{3}\sqrt{27B^2 + 4A^3} - 9B \right)}
 \end{align*}
 $$
 
-This is where I get *extremely* confused. For this depressed cubic, we've somehow gone totally wrong!! It doesn't work :(
+But we also need to take roots of unity to find the other two solutions for \\(u\\) from this. Multiplying the above by \\(\small{e^{\frac{2i\pi}{3}}=-\frac{1}{2}+\frac{\sqrt{3}}{2}i}\\) and \\(\small{e^{\frac{4i\pi}{3}}=-\frac{1}{2}-\frac{\sqrt{3}}{2}i}\\) for the other two roots gives: 
+
+$$
+\small\begin{align*}
+
+u &= \left(-\frac{1}{2}+\frac{\sqrt{3}}{2}i\right)\sqrt[3]{\frac{1}{18} \left( \pm \sqrt{3}\sqrt{27B^2 + 4A^3} - 9B \right)}
+\newline\newline
+u &= \left(-\frac{1}{2}-\frac{\sqrt{3}}{2}i\right)\sqrt[3]{\frac{1}{18} \left( \pm \sqrt{3}\sqrt{27B^2 + 4A^3} - 9B \right)}
+
+\end{align*}
+$$
+
+
+
+For now, let's just take it for granted that each pair of values for \\(u\\) given by these new formulae return the same value of \\(y\\) regardless of the state of the \\(\pm\\) symbol (i.e., a total of 3 possibly different values). I've done a bit of playing around and this feels true, plus the proof is probably super complicated so I'm not going to even try it here. Maybe in future if I understand it and ever decide to return.
+
+Anyway, now using this assumption we have exactly 3 values of \\(u\\) in terms of \\(A\\) and \\(B\\) only, that will eventually give us 3 values of our original \\(x\\). Substituting back into \\(y=u-\frac{A}{3u}\\) gives:
+
+$$
+\small\begin{align*}
+
+y &= \left(-\frac{1}{2}+\frac{\sqrt{3}}{2}i\right)\sqrt[3]{\frac{1}{18} \left(\sqrt{3}\sqrt{27B^2 + 4A^3} - 9B \right)} - \frac{A}{3\left(-\frac{1}{2}+\frac{\sqrt{3}}{2}i\right)\sqrt[3]{\frac{1}{18} \left(\sqrt{3}\sqrt{27B^2 + 4A^3} - 9B \right)}}\newline\newline
+y &= \sqrt[3]{\left(-\frac{1}{2}-\frac{\sqrt{3}}{2}i\right)\frac{1}{18} \left(\sqrt{3}\sqrt{27B^2 + 4A^3} - 9B \right)} - \frac{A}{3\left(-\frac{1}{2}-\frac{\sqrt{3}}{2}i\right)\sqrt[3]{\frac{1}{18} \left(\sqrt{3}\sqrt{27B^2 + 4A^3} - 9B \right)}}\newline\newline
+y &= \sqrt[3]{\frac{1}{18} \left(\sqrt{3}\sqrt{27B^2 + 4A^3} - 9B \right)} - \frac{A}{3\sqrt[3]{\frac{1}{18} \left(\sqrt{3}\sqrt{27B^2 + 4A^3} - 9B \right)}}
+
+\end{align*}
+$$
+
+--- 
+
+Finally, all we now need to do is to make \\(x\\) the subject again and rewrite the expressions for \\(A\\) and \\(B\\) in terms of \\(a, b\\) and \\(c\\). Doing this, we eventually obtain (I *really* hope correctly):
+
+$$\small\begin{align*}
+
+x=y-\frac{1}{3}a
+\newline\newline
+\implies x &= 
+
+\newline\newline
+
+\implies x &= 
+
+\newline\newline
+
+\implies x &= 
 
 
 
 
+\end{align*}$$
