@@ -3,7 +3,7 @@ layout: single
 title: Trying to find the general 'cubic equation'
 date: 2023-11-08 20:20
 categories: maths equations
-last_modified_at: 2023-11-18
+last_modified_at: 2023-11-26
 header:
     teaser: /assets/images/cubics-pexels-stock.jpg
 ---
@@ -146,6 +146,7 @@ $$
 
 1.\hspace{0.5cm} & \textnormal{Find all }x\textnormal{ such that }x^3-9x^2+16x-14=0.
 \\
+\\ &\text{Solution using the equations derived above for the solutions of a cubic:}
 \\& A=16-\frac{(-9)^2}{3}=-11
 \\& B=\frac{2}{27}(-9)^3-\frac{1}{3}(-9)(16)-14 = -20
 \\& \sqrt{27B^2+4A^3} = \sqrt{5476} = 74
@@ -167,14 +168,36 @@ $$
 \newline\newline\newline\newline
 2.\hspace{0.5cm} & \textnormal{Find all }x\textnormal{ such that }x^3-3x^2-4x+12=0.
 \\
+\\&\text{Solution:}
 \\&A=-4-\frac{(-3)^2}{3} = -7
 \\&B=\frac{2}{27}(-3)^3-\frac{1}{3}(-3)(-4) +12 = 6
 \\&\sqrt{27B^2+4A^3} = \sqrt{-400} = 20i
-\\& \frac{1}{18} \left(\sqrt{3}\sqrt{27B^2 + 4A^3} - 9B \right) = \frac{20\sqrt{3}i-54}{18} = \frac{10\sqrt{3}i}{9}-3
-\\& \sqrt[3]{\frac{10\sqrt{3}i}{9}-3} \approx \cdots \text{ will finish this all off sometime soon.}
-
-
-
-
+\\& \frac{1}{18} \left(\sqrt{3}\sqrt{27B^2 + 4A^3} - 9B \right) = \frac{20\sqrt{3}i-54}{18} = -3+\frac{10\sqrt{3}}{9}i=\frac{7\sqrt{21}}{9}e^{\left(\pi-\arctan\left({\frac{10}{9\sqrt{3}}}\right)\right)i}
+\\& \sqrt[3]{\frac{7\sqrt{21}}{9}e^{\left(\pi-\arctan\left({\frac{10}{9\sqrt{3}}}\right)\right)i}} = \frac{\sqrt{21}}{3}e^{\frac{1}{3}\left(\pi-\arctan\left({\frac{10}{9\sqrt{3}}}\right)\right)i} \approx 1+1.154700538379i
+\\& x=1+1.154700538379i+\frac{7}{3(1+1.154700538379i)}+1 = 3 \implies x=3 \text{ is one root.}
+\\&\text{For another root:}
+\\&x = \left(-\frac{1}{2}+\frac{\sqrt{3}}{2}i\right)(1+1.154700538379i) + \frac{7}{3\left(-\frac{1}{2}+\frac{\sqrt{3}}{2}i\right)(1+1.154700538379i)} + 1
+\\&=-2 \implies x=-2 \text{ is another root.}
+\\\\&\text{For the last root:}
+\\&x = \left(-\frac{1}{2}-\frac{\sqrt{3}}{2}i\right)(1+1.154700538379i) + \frac{7}{3\left(-\frac{1}{2}-\frac{\sqrt{3}}{2}i\right)(1+1.154700538379i)} + 1
+\\&=-2 \implies x=2 \text{ is the last one.}
+\\\\& \text{Hence, the three roots of this equation are }
+\\&x=3 \text{ and } x=\pm2\text{ as required.}
 \end{align*}
-$$ 
+$$
+
+---
+
+**Woohoo** 🥳
+
+But just a few things:
+- Yes, I definitely used WolframAlpha and my Casio to crunch some of the numbers which admittedly defeats the whole point.
+- Sorry about capitulating and using approximated numbers near the end - the exact values got pretty nasty.
+- I picked these equations to start with, knowing that the solutions would be nice numbers as something to look forward to.
+- So cool in the last example how all those complex numbers in the expression led to totally real roots!
+
+More generally, I concede that I got quite stuck on deriving this several times and considered giving up at times. Took longer than it should have for me to spot that I needed to take roots of unity for the two other solutions as well.
+
+Other than that, pretty cool don't you think!
+
+A rewarding, even if somewhat frustrating, experience on the whole.
