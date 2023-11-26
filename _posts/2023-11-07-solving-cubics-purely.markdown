@@ -1,11 +1,15 @@
 ---
 layout: single
 title: Trying to find the general 'cubic equation'
-date: 2023-11-08 20:20
+date: 2023-11-24 20:20
 categories: maths equations
 last_modified_at: 2023-11-26
 header:
     teaser: /assets/images/cubics-pexels-stock.jpg
+
+toc: true
+toc_label: "Cubic-ing"
+toc_icon: "bars"
 ---
 <script>
     MathJax = {
@@ -15,6 +19,7 @@ header:
 Trust me, I've specially chosen the word *trying* in the title for a reason...
 
 ---
+# Why?
 
 Finding ways of reducing seemingly complicated functions into something that becomes easy to solve is one thing I enjoy in maths, that is, the process of generalisation.
 
@@ -22,7 +27,10 @@ A famous example of this is perhaps the quadratic formula, which states that for
 
 In this article, despite being confused about why some stuff is happening, I'll have a go at finding a commensurate solution to the general cubic equation, <span>$$x^3+ax^2+bx+c=0.$$</span>
 
----
+<br>
+
+# Getting started
+## Depressing the cubic
 
 First we want to get rid of the term in \\(x^2\\) so that the equation's a bit easier to work with. We can use a sneaky binomial trick here to get a part of the \\(x^3\\) term to negate the \\(x^2\\) term and that'll give us a new cubic in a different variable (but solving for this and undoing the transformation still gets us the solutions).
 
@@ -45,7 +53,8 @@ $$
 
 Hence we have successfully transformed the general cubic into 'depressed cubic' form (without the \\(\small{x^2}\\) term). So now we have \\(\small{y^3+Ay+B=0}\\) where \\(\small{A=b-\frac{1}{3}a^2}\\) and \\(\small{B=\frac{2}{27}a^3 - \frac{1}{3}ab + c}\\), so are both constants, which is good.
 
----
+
+## Reducing it further
 
 This time we want to turn it into something we do know how to solve (maybe a quadratic...), so want to get rid of the linear term now too.
 
@@ -87,6 +96,8 @@ u^3 &= \frac{-27B \pm \sqrt{27\left(27B^2 + 4A^3\right)}}{54}
 \end{align*}
 $$
 
+## Getting *all* the roots
+
 But we also need to take roots of unity to find the other two solutions for \\(u\\) from this. Multiplying the above by \\(\small{e^{\frac{2i\pi}{3}}=-\frac{1}{2}+\frac{\sqrt{3}}{2}i}\\) and \\(\small{e^{\frac{4i\pi}{3}}=-\frac{1}{2}-\frac{\sqrt{3}}{2}i}\\) for the other two roots gives: 
 
 $$
@@ -115,7 +126,8 @@ y &= \sqrt[3]{\frac{1}{18} \left(\sqrt{3}\sqrt{27B^2 + 4A^3} - 9B \right)} - \fr
 \end{align*}
 $$
 
---- 
+---
+# General solution
 
 Finally, all we now need to do is to make \\(x\\) the subject again and plug in all the previous expressions. Doing this, we eventually obtain (I *really* hope correctly):
 
@@ -137,7 +149,8 @@ $$\scriptsize\begin{align*}
 \newline\newline
 \end{align*}$$
 
----
+
+## Trying it out
 
 Let's try it out on a few cubics then, one with 1 real root and one with 3 real roots.
 
@@ -186,7 +199,8 @@ $$
 \end{align*}
 $$
 
----
+
+## Reflections
 
 **Woohoo** 🥳
 
