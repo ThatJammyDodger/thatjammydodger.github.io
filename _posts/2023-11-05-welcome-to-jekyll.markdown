@@ -5,6 +5,11 @@ date:   2023-11-05 15:47:04 +0000
 header:
     teaser: /assets/images/jekyll-logo.png
 ---
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/jekyll-logo.png" alt="">
+
+
+
 Not much idea what's going on here sadly :( 
 Would quite like to add LaTeX support on here in the near future if I get time (and begin to understand what is going on!)
 
