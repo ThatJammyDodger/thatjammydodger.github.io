@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: "Jay's Virtual Home"
-subtitle: "A place to chill on the web"
+subtitle: "A place for me to chill on the web"
 name: "Jay Ambadkar"
 email: "ambadkarj123@gmail.com"
 domain: "thatjammydodger.github.io"
@@ -69,8 +69,8 @@ comments:
 author:
   name: "Jay"
   avatar: "/assets/images/icon.png"
-  bio: "Aspiring maths (and maybe CS) student. Applying for university while studying for my A levels, having finished with GCSEs. Clueless yet hopeful."
-  location: "Somewhere, UK, Near Mars"
+  bio: "Future Maths and CS student. About to do some A levels to try and confirm my place at Imperial. Clueless yet hopeful."
+  location: "North of London, UK, Near Mars"
   links:
     - label: "X (formerly Twitter)"
       icon: "fab fa-fw fa-twitter-square"
