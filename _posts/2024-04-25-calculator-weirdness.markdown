@@ -2,7 +2,7 @@
 layout: single
 title: Calculator weirdness
 subtitle: What is going on here?
-date: 2024-04-23
+date: 2024-04-25
 categories: maths
 header:
     teaser: /assets/images/thumbnails/latex-cover.jpg
