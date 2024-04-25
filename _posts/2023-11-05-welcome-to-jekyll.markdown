@@ -3,7 +3,7 @@ layout: single
 title:  "Post 0: Welcome to Jekyll!"
 date:   2023-11-05 15:47:04 +0000
 header:
-    teaser: /assets/images/jekyll-logo.png
+    teaser: /assets/images/thumbnails/jekyll-logo.png
 ---
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/jekyll-logo.png" alt="">

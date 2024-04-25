@@ -3,7 +3,7 @@ layout: single
 title: Hello from me
 date: 2023-11-05 16:43:45 +0000
 header:
-    teaser: /assets/images/hello.jpg
+    teaser: /assets/images/thumbnails/hello.jpg
 ---
 Hi!
 

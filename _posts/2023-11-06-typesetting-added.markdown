@@ -5,7 +5,7 @@ subtitle: (It didn't take a whole lot of effort to add to be honest)
 date: 2023-11-06 00:01 +0000
 categories: math, typesetting
 header:
-    teaser: /assets/images/latex-cover.jpg
+    teaser: /assets/images/thumbnails/latex-cover.jpg
 ---
 After an entire two minute investigation into potential libraries, and based on nothing other than the library's sponsor list, this site's admin has decided to use <a href="http://www.mathjax.org/" target="_blank">MathJax</a> to implement mathematical typesetting around here.
 

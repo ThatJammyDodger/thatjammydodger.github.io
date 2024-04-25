@@ -5,7 +5,7 @@ date: 2023-11-24 20:20
 categories: maths equations
 last_modified_at: 2023-11-26
 header:
-    teaser: /assets/images/cubics-pexels-stock.jpg
+    teaser: /assets/images/thumbnails/cubics-pexels-stock.jpg
 
 toc: true
 toc_label: "Cubic-ing"

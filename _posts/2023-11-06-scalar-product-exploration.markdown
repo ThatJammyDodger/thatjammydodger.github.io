@@ -4,7 +4,7 @@ title: Deriving the scalar product for vectors formula with the cosine rule and 
 date: 2023-11-06 22:20
 categories: maths vectors
 header:
-    teaser: /assets/images/dot-cover.jpg
+    teaser: /assets/images/thumbnails/dot-cover.jpg
 ---
 
 The scalar (or dot) product of two vectors is used for finding angles between where two direction vectors would intersect, and that's pretty cool. What's more is that this works in more than 2 dimensions, such as 3D spaces and probably has all sorts of real world applications as vectors usually do.
@@ -21,7 +21,7 @@ So while the following may not be too pretty or rigourous, it gives me a much mo
 
 Suppose we begin with <span>$$n$$</span>-dimensional vectors <span>$$\bf{a}$$</span> and <span>$$\bf{b}$$</span> such that we form a triangle in the plane using vector <span>$$\bf{a}-\bf{b}$$</span>, treating all of these as position vectors for now.
 <pre></pre>
-![Planar position vectors: a, b, and a-b represented on coordinate axes](/assets/images/scalar-product-diagram.png){:width="40%" align="center"}
+![Planar position vectors: a, b, and a-b represented on coordinate axes](/assets/images/in_posts/scalar-product-diagram.png){:width="40%" align="center"}
 <div>
 We can write these vectors as follows:
 \begin{align}
