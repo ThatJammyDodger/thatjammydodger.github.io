@@ -32,3 +32,10 @@ Essentially, lots of running around in this elaborate game of throw and catch. I
 Therefore, I conclude that despite some personal error, the main problems originated with the grass and how I was able to interact with it. Irregularities in the ground set me up for failure and embarassment before my peers. Slipping over repetitively is unfun and my leg hurt for a while after.
 
 Informally, I reckon the ground was rigged and the grass had it out for me. Just you wait until I'm on top of the world, then I'll show that grass who's boss.
+
+P.S. This is what some friends said I _'was basically like'_. Not happy but pretty funny in retrospect:
+<audio controls>
+  <source src="{{ site.url }}{{ site.baseurl }}\assets\images\in_posts\cartoon-fall-sfx.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
