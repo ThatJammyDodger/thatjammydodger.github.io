@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: "Jay's Virtual Home"
-subtitle: "A place for me to chill on the web"
+subtitle: "A place for me on the web"
 name: "Jay Ambadkar"
 email: "ambadkarj123@gmail.com"
 domain: "thatjammydodger.github.io"

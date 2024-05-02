@@ -6,7 +6,7 @@ header:
     teaser: /assets/images/thumbnails/jekyll-logo.png
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/jekyll-logo.png" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/jekyll-logo.png" alt="Jekyll logo">
 
 
 
