@@ -3,7 +3,7 @@ layout: single
 title: Typsetting is here!
 subtitle: (It didn't take a whole lot of effort to add to be honest)
 date: 2023-11-06 00:01 +0000
-categories: math, typesetting
+categories: maths typesetting
 header:
     teaser: /assets/images/thumbnails/latex-cover.jpg
 ---
