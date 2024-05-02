@@ -40,7 +40,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-archives
 
-paginate: 5
+paginate: 7
 paginate_path: /page:num/
 
 defaults:
