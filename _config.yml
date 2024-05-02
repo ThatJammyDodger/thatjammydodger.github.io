@@ -38,6 +38,7 @@ github_username:  "ThatJammyDodger"
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-include-cache
+  - jekyll-archives
 
 paginate: 5
 paginate_path: /page:num/
@@ -65,6 +66,9 @@ comments:
   provider: "disqus"
   disqus:
     shortname: "thatjammydodger"
+
+teaser: /assets/images/thumbnails/dot-cover.jpg
+breadcrumbs: true
 
 author:
   name: "Jay"

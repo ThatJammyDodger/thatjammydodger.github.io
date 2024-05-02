@@ -4,6 +4,7 @@ title: Touching grass
 subtitle: Eyebrows will be raised
 date: 2024-05-02
 categories: nonsense
+comments: true
 header:
     teaser: /assets/images/thumbnails/field.jpg
 ---
