@@ -8,7 +8,7 @@ comments: true
 header:
     teaser: /assets/images/thumbnails/tshirt.jpg
 ---
-It did not go well.
+What a shame ?!
 
 ![certificate](\assets\images\in_posts\shirts_award.jpg){:width="60%" align="center"}
 
