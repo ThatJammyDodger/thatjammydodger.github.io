@@ -42,6 +42,8 @@ plugins:
 paginate: 7
 paginate_path: /page:num/
 
+words_per_minute: 150
+
 defaults:
   # _posts
   - scope:

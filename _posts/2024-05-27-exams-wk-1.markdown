@@ -1,0 +1,74 @@
+---
+layout: single
+title: A LEVELS! (wk. 1)
+subtitle: Unnerving or irritating [to remember]
+date: 2024-05-27
+categories: exams
+comments: true
+header:
+    teaser: \assets\images\in_posts\exam-hall.jpg
+---
+A levels - am I right or am I right?
+
+![Exam hall, not mine](\assets\images\in_posts\exam-hall.jpg){:width="60%" align="center"}
+
+## EXAMS!!! 
+Whoo! First 'week' of this exam series done!
+
+These are the big ones, the ones we've all been waiting for, los grandes, la finale...
+
+Two papers down; fourteen to go.
+
+---
+
+### Wednesday: 9FM0/01
+Or in layman's terms, **Further Mathematics / Core Pure 1**.
+
+Overall a solid paper I reckon but with some nasty tricks mixed in. The one which I'm fairly sure caught me out was a question that set up a differential equation in terms of days but then requested an answer in terms of hours >:(. Other than that, I don't necessarily think I got really caught out but I suppose I will find out if I did well enough before long.
+
+At least this leaves us with some level of idea about what might be assessed on paper 2, what with them kinda needed to get a broad coverage of the specification and all.
+
+Alas, my prediction list for topics assessed on paper 2:
+- method of differences
+- mean value theorem
+- complex loci or geometries using roots of unity
+- hyperbolics
+- volumes of revolution
+- more differential equations
+- more difficult integration (trig or hyperbolics)
+- matrices
+- vectors with more on distances/planes
+- more series
+
+Yes, this probably isn't that helpful but it's good for my brain at least and really, that's all I care about at the moment.
+
+---
+
+### Friday: H556/01
+![James Webb Telescope photo of far-away space](\assets\images\in_posts\JW-telescopy.jpg){:width="100%" align="center"}
+_(^^extremely cool picture with a somewhat tenuous relationship to this paper)_
+
+**Physics: Modelling in Physics** (just my opinion but what a boring name // what happened to fun stuff like 'frontiers of physics' and the like 😔)
+
+Anyway, this was the longest one so far at 135 minutes in length, and also happened to be the trickiest so far.
+
+I mean, there was a really weird MCQ which, if it were a long question, would have been worth at least 3 marks, due to the crazy amounts of SUVAT and interpretation involved. Not only that but the rest of the paper just really wasn't very nice for anyone, if the reactions at school are to be believed.
+
+For starters, well I can't really remember too much about it at the moment but I know that some of the astro / grav questions towards the end weren't particularly nice, plus I have this sinking feeling that the 2nd LOR question has gone horribly wrong (I wrote some stuff but the calculations were quite mysterious and I'm wasn't entirely sure what needed calculating).
+
+What's more, there are some slightly insane people [online](https://www.thestudentroom.co.uk/revision/alevel-gcse-exams/students-react-after-a-level-physics-paper-1) who supposedly, maybe, found it easy!!! I mean, who am I to talk about insanity - atop frequent mutterings of the idea from those around me, after the Physics exam, I even got caught out by a teacher who spotted me punching my fists together and even suggested taking a 'de-stressing' walk. Oh well.
+
+Anyway, aside from what happened on the day, it's clear that marking of the first scripts will begin on Tuesday after the first batch get scanned in over the weekend (kudos @OCR, that's actually incredible efficiency). All of us candidates will get what we deserve in the end, and I trust that grade boundary setting will reflect the relative difficulty of the paper.
+
+---
+
+### Next
+Well, it's now half-term which'll let some good revisioning [sic] happen, and afterwards, the pressure really will be ramping up now.
+
+The week after half term is virtually all maths with a physicsy twist on Thursday and Friday. 5 exams including the notorious STEP paper 2...
+
+After that, still pretty stressful but hopefully the light at the end of the tunnel starts to appear.
+
+Let's hope for the best in all those exams, though I must work hard to get the grades that I wish to deserve!
+
+All the best to anyone else out there doing A level at the moment!
