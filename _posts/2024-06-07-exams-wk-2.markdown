@@ -1,0 +1,42 @@
+---
+layout: single
+title: A LEVELS!! (wk. 2)
+subtitle: Getting into the swing of it again
+date: 2024-06-07
+categories: exams
+comments: true
+header:
+    teaser: \assets\images\thumbnails\exam-prep.jpg
+---
+Gotta get'em all...
+
+![Exam practice, mine](\assets\images\thumbnails\exam-prep.jpg){:width="60%" align="center"}
+
+## Yet more paper based revision exercises
+Alrighty! Now with 7 down, 9 to go, it feels like we're making progress.
+
+Had a _lot_ of exams critical to my offer this week, notably the notorious STEP (not technically a qualification) and a load more maths 📈.
+
+Also, just to neaten stuff up here, I've had a go at tabulating my thoughts around here **_ooohhh_**... proper fancy, right?
+
+---
+
+### How did the papers go
+
+|Day   | Exam ref.   | Thoughts   |
+|:--- | :---: | :--- |
+| Monday | **9FM0 / 02 / Core Pure 2** | Actually a pretty decent paper - lots of the predicted topics came up (so nice) although there being 9 questions did put some pressure on time. `Q9` also had some kinda sneaky integrations tricks that needed to be used, which I quite liked though some others didn't.<br> <br> Irritatingly, the marks that I know I've lost are due to messing up a chain rule differentiation which a 5 year old could probably do, though other than that no major concerns. |
+| Tuesday | **9MA0 / 01 / Pure 1** | Second nature at this point so really not much to say... but the last question was a pretty neat coming together of proofs by contradiction and exhaustion. As long as I get that right, I'll have liked it. |
+| Wednesday | **9470 / STEP 2** | Blimey! The questions were extremely different to the 2023 paper, which I'd say had me on the back foot from the off. Did questions `1, 2, 4, 5, 6, 7` though attempted would be a better description. To be honest, questions `2` and `5` were probably my best attempts, with `1` and `7` coming in next and 4 and 6 being the worst (4 being a regrettably chosen vectors question!). <br> <br> Truth be told, I did have to bodge algebra in places just so that I adhered to the timing predictions I reckoned I had to stick to such that I maximised marks. But apart from that, I'd say most of my methods were sound and, fingers crossed, creditworthy. The amount of time in that exam hall though, crazy, and on top of that there were a fat stack of extra instructions for us about annotating the answer booklet correctly and all sorts. <br> <br> Overall, I'd also say that STEP is the exam I've prepared for independently the most over the last year with c. 245 aggregated hours going into STEP. Provided I do well in this (i.e. at least a 1), it will have been a rewarding experience and I'll have a smile on my face :).|
+| Thursday | **H556 / 02 / 'Exploring Physics'** | So much better than paper 1, plus so so glad that I don't do AQA, just by the sheer volume of sadness that their paper has generated the last few days. Honestly don't remember too much and it's quite possible I've slipped up on a few questions, but I feel reassured that almost all of my methods were sound and that the paper has me in good stead going forth. |
+| Friday | **9FM0 / 3C / Further Mechs 1** | Fairly typical FM1 paper in all honesty. Suspected slip on an angle of deflection question in which I mixed up the quotient in the `arctan` formula which may cost 2 or so marks. Other than that, not feeling too shabby.<br> <br> Actually feeling pretty happy about `Q7(c)` where there was loads of trig and just mathsy reasoning mixed into a collisions question, which I feel like went reasonably successfully for me but a bit less so for others. All in all, what with FM1 feeling like my worst FM paper all year, feeling absolutely chuffed about that exam! *sorry, I mean PBRE!* |
+
+_Yes, it does annoy me that paper 3C is done before papers 3B and 3A for Further Maths. No I can't do anything about it._
+
+
+### Onwards and upwards
+Just under halfway through these vital examinations with 9 left to go. Now that I'm getting into the rythm of it, just need to keep up the momentum now.
+
+We will all get what we deserve.
+
+_(unless of course there's a marking/admin error, in which case appeals can be lodged to eventually reach the same just and fair outcome but that's sort of overthinking it so never mind, actually yeah but I think I'm starting to lose the plot)_
