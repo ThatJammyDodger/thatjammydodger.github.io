@@ -79,7 +79,7 @@ author:
   location: "North of London, UK, Near Mars"
   links:
     - label: "X (formerly Twitter)"
-      icon: "fab fa-brands fa-x-twitter"
+      icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/JayAmbadkar"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
