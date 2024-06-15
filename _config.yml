@@ -38,6 +38,7 @@ github_username:  "ThatJammyDodger"
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-include-cache
+  - jekyll-feed
 
 paginate: 7
 paginate_path: /page:num/
@@ -78,7 +79,7 @@ author:
   location: "North of London, UK, Near Mars"
   links:
     - label: "X (formerly Twitter)"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-brands fa-x-twitter"></i>"
       url: "https://twitter.com/JayAmbadkar"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
