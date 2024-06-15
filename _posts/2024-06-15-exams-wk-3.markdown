@@ -1,0 +1,42 @@
+---
+layout: single
+title: A LEVELS!!! (wk. 3)
+subtitle: My brain is starting to fry
+date: 2024-06-15
+categories: exams
+comments: true
+header:
+    teaser: \assets\images\thumbnails\exam-timetable-wk-3.jpg
+---
+I thought we were friends Edexcel. Little did I know...
+
+![Exam timetable](\assets\images\thumbnails\exam-timetable-wk-3.jpg){:width="60%" align="center"}
+
+_Don't be fooled by that - there's another page of timetable!_
+
+## Summary
+Only 3 this week so not too bad in that respect. 
+
+Bad, however, with respect to yesterday's Further Stats paper. Whoever wrote parts (c) and (e) of Q7 must have been on smoke. Utter rubbish 😢
+
+---
+
+### The papers of the week
+
+|Day   | Exam ref.   | Thoughts   |
+|:--- | :---: | :--- |
+| Monday | **H432 / 01 / Inorganic Chemistry** | As I started the paper, my immediate reaction was basically 'oh goodness, surely the multiple choice should be harder?!'. Fortunately, it did soon pick up in terms of difficulty level. <br><br> Overall reaction is that it was a pretty typical Chemistry paper (albeit with a trickier than usual \\(K_p\\) question that seemed to throw people off). Nothing that felt impossible at least. |
+| Tuesday | **9MA0 / 02 / Pure 2** | Like the Pure 1 paper, this wasn't a massive problem. Admittedly, some of the questions were more challenging that I expected before opening the paper. Especially the question about the radii of intersecting circles seemed to resemble a MAT/TMUA question much more than I would expect of an A level question (not that I'm complaining).<br><br> Contrary to the questions, my biggest worry was actually about whether I had put my name on the front of the exam paper - quite possibly the easiest thing to do on each exam. This resulted in a slightly embarassing trip to the exams office, where I was pleased to hear of their strategy for dealing with unnamed scripts. |
+| Friday | **9FM0 / 3B / Further Stats 1** | Right. Absolutely awful as a paper and I've not heard of a single person who enjoyed it. The main problems arose from bad time management - 15 minutes for the whole of Q7 (18 marks + hardest on the paper) - _**bad idea**_. Also there were small bits of other questions I was displeased with, but damage from that should be limited. <br><br> Definitely a challenging paper and I'd be shocked if they don't lower the grade boundaries to recognise this. <br><br> Though I suppose that I'm quite fortunate since I studied FP1 on top of FS1 and FM1, which gives me another shot at upping my overal Further Maths mark. If I do better on FP1, then it subsumes one of the other 'option' papers and optimises the awarded grade, so I just need to smash that one now to top off this Further Maths course! <br><br> _Actually, to be fair to this FS1 paper, the first few questions were quite quaint. I must admit I quite liked how they asked to find \\(\text{Var}(X^2)\\) and wanted that neat lil explanation to go with the \\(\chi^2\\) expected freqency stuff._|
+
+
+If you couldn't tell already, that Further Stats paper has _sort of_ infuriated me; I'd call it 50/50.
+
+Unpopular opinion: maybe a blessing in disguise since it could now give purpose to the FP1 exam on Wednesday?
+
+
+### Surely not six more
+Regrettably so.
+
+Having been stuck in exams mode for a long few weeks now, it's gonna be such a massive relief when I'm finally free and off on holiday! _(provided I don't screw the last week up)_
+
