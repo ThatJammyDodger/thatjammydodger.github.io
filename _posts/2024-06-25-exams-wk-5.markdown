@@ -1,20 +1,22 @@
 ---
 layout: single
 title: IT'S OVER (2024 exam season)
-subtitle: Mwah ha ha
+subtitle: All done :)
 date: 2024-06-25
 categories: exams
 comments: true
 header:
     teaser: 
 ---
-Mwah ha ha...
+It's over :(
+
+I mean, it's over :)
 
 ![STEP thoughts](\assets\images\in_posts\step-thoughts.jpg){:width="60%" align="center"}
 
 
 ## Summary
-
+Honestly, I was kinda hyped for this paper because it didn't affect any of my offers. To be honest, I was much more hyped by the end of it :)
 
 ---
 
