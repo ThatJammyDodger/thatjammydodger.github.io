@@ -1,0 +1,37 @@
+---
+layout: single
+title: A LEVELS!!!! (wk. 4)
+subtitle: Mwah ha ha
+date: 2024-06-22
+categories: exams
+comments: true
+header:
+    teaser: 
+---
+Mwah ha ha...
+
+![Cover image](){:width="60%" align="center"}
+
+
+## Summary
+
+
+---
+
+### The penultimate five
+
+|Day   | Exam ref.   | Thoughts   |
+|:--- | :---: | :--- |
+| Monday | **H556 / 03 / Unified Physics** | Yikes! Tricky stuff, especially near the end. Not a bad paper though - would have been better if I'd understood the 6 mark question first time. |
+| Tuesday | **H432 / 02 / Organic Chemistry** | Whoo! Pretty much easy marks imo, except for some dilly mistakes I made. |
+| Wednesday | **9FM0 / 3A / Further Pure 1** | Easy marks. Slightly terrifies of the grade boundaries though. <br> However, I must now declare my newfound grudge on the person who phrased the vectors question. |
+| Thursday | **9MA0 / 03 / Stats and Mechs** | Evil stats contextual questions,  need I say more? |
+| Friday | **H432 / 03 / Unified Chemistry** | Mwah ha ha ha ha, time for me now to brew some truly awesome chemicals >:) |
+
+
+
+
+### Feelings
+Positivitiy innit
+
+Just one exam left - the dreaded STEP 3...
