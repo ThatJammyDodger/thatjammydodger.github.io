@@ -10,9 +10,6 @@ header:
 ---
 Mwah ha ha...
 
-![Cover image](){:width="60%" align="center"}
-
-
 ## Summary
 
 
