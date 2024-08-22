@@ -6,7 +6,8 @@ date: 2024-06-15
 categories: exams
 comments: true
 header:
-    teaser: \assets\images\thumbnails\exam-timetable-wk-3.jpg
+    teaser: assets\images\thumbnails\dot-cover.jpg
+
 ---
 I thought we were friends Edexcel. Little did I know...
 

@@ -6,7 +6,7 @@ date: 2024-06-22
 categories: exams
 comments: true
 header:
-    teaser: 
+    teaser: assets\images\thumbnails\cubics-pexels-stock.jpg
 ---
 Mwah ha ha...
 

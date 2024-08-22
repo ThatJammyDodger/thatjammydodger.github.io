@@ -6,7 +6,7 @@ date: 2024-06-25
 categories: exams
 comments: true
 header:
-    teaser: 
+    teaser: /assets/images/thumbnails/field.jpg
 ---
 It's over :(
 
