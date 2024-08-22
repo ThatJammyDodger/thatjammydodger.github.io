@@ -1,0 +1,57 @@
+---
+layout: single
+title: Beloved old essays
+subtitle: Lots of thinking going on
+date: 2024-08-22
+categories: maths
+header:
+    teaser: /assets/images/thumbnails/pdf-clipart.jpg
+
+toc: true
+toc_label: "Essays"
+toc_icon: "bars"
+---
+In an unusually serious and thought-about post, I introduce some of the long research-based thinking that I've done over the last few years and reflect a little (I'll try to not be cringe, promise).
+
+## Cryptography (Independent Project)
+This I did as part of a school project, and indeed spent several months on. I managed to use a tonne of well-referenced sources, with the whole thing coming to 7500+ words in total.
+
+Nostalgically, I felt obliged to upload it here and provide a few words of explanation about it, just to pre-empt the questions that'll never come, you know...
+
+---
+
+*Why did you do it on Cryptography?*
+> Well, at the time of deciding, I knew that I quite liked maths and wanted to do something on its real applications (something that all the dusty number theorists just happily skirt over...) so I came upon the field of cryptography finding it all quite cool and that :). It also boosted my interest in the overlap with computer science, something I later noted in my university applications.
+
+*Why do it if it's not an EPQ?*
+> Yes, that's correct, months spent and no formal recognition for it. In short, because my school made us; though I went above and beyond the mandate and produced a 'Gold' level project. Good experience is the main reason. 
+
+> And why it's not an EPQ? The teacher i/c said that '[the] grading is quite unpredictable. If we assess an A*, it can get moderated down to an E'. So it's basically all about making the student not stress while still getting all the long-term benefit. In retrospect, I agree.
+
+Without further ado, please enjoy what my supervisor graded (albeit a bit hollowly as a 'Distinction').
+
+Et voilà:
+
+<object data="{{ site.url }}{{ site.baseurl }}/assets/documents/Cryptography IP.pdf" width="1000" height="1000" type="application/pdf"></object>
+
+
+
+## Fourier Transform
+In all honesty, I feel a bit embarrassed by this next one. I did it all within two days, and as such, it never really stood up to the quality I like to hold myself to. Nevertheless, it's not so awful that it should live in my garage for all eternity.
+
+It's essentially about the Fourier Transform and its application to sound refinement software, which turned out to be surprisingly helpful knowledge to have when it came to understanding how NMR analysis works in Chemistry. While embarrassed, I am simultaneously proud, and I have tried to keep it real with my explanations.
+
+*Why did you do it?*
+> It was to enter an essay competition. Unsurprisingly, my mad rush for submission led to me not winning, though I definitely wasn't the worst in the mix.
+
+*Did you ever find that having done this was useful?*
+> Yes, mentioned it in my personal statement on UCAS, and got asked about it in my Imperial College London interview. (I actually have a funny story about that interview -- stay tuned for more).
+
+Bon appétit:
+
+<object data="{{ site.url }}{{ site.baseurl }}/assets/documents/The Mathematics Behind Sound.pdf" width="1000" height="1000" type="application/pdf"></object>
+
+
+
+
+*Side note: I quit French quite some time ago so I hope I won't be getting any emails about that...*
