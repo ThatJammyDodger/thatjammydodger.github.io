@@ -10,7 +10,7 @@ header:
 ---
 A levels - am I right or am I right?
 
-![Exam hall, not mine](\assets\images\in_posts\exam-hall.jpg){:width="60%" align="center"}
+![Exam hall, not mine!](\assets\images\in_posts\exam-hall.jpg){:width="60%" align="center"}
 
 ## EXAMS!!! 
 Whoo! First 'week' of this exam series done!
