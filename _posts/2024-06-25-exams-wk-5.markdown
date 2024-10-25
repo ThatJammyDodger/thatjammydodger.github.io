@@ -1,6 +1,6 @@
 ---
 layout: single
-title: IT'S OVER (2024 exam season)
+title: It's over (2024 exam season)
 subtitle: All done :)
 date: 2024-06-25
 categories: exams

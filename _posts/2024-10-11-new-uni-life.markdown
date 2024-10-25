@@ -10,10 +10,10 @@ header:
 toc: false
 ---
 
-Settling into the UK and Europe's \#1[^1] university for a pretty fun course...
+Settling into the UK and Europe's \#1 university for a pretty fun course...(see [^1])
 
 ## Imperial
-Now, aside from their massive rebrand, Imperial is an astonishing university from my perspective. It's the only one in the country that focusses on **real subjects**. Take that Oxbridge (just kidding 😂), but to be fair we do need more STEM exlusive unis around here... 
+Now, aside from their massive rebrand, Imperial is an astonishing university from my perspective. It's the only one in the country that focusses exclusively on **real subjects**. Take that Oxbridge (just kidding 😂), but to be fair we do need more STEM exlusive unis around here... 
 
 My accommodation is a bit far away, but in fairness it wasn't really sustainable for me, as a student, to live in Central London.
 

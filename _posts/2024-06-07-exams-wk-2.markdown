@@ -1,6 +1,6 @@
 ---
 layout: single
-title: A LEVELS!! (wk. 2)
+title: A levels!! (wk. 2)
 subtitle: Getting into the swing of it again
 date: 2024-06-07
 categories: exams
