@@ -1,0 +1,28 @@
+---
+layout: single
+title: Happy New Year!
+subtitle: Making resolutions
+date: 2025-01-04
+categories: life
+header:
+    teaser: /assets/images/thumbnails/dot-cover.jpg
+
+toc: false
+---
+Happy new year y'all and sorry about the recent lack of posting...
+
+## Into 2025, Happy New Year!!
+
+This is just a super duper quick post to say happy new year!
+
+### Lack of recent posting
+
+To any avid readers of this site, sorry about the recent content drought. Been pretty busy with my course and all that goes with it, especially with trying to (and hopefully succeeding in) making my coding skills as good as they can be!
+
+This, of course, in addition to getting all the fancy uni-level maths I can into my skull.
+
+If you're wondering about my new year's resolutions, that probably sums it up. Though I would add that I'm trying to live more life this year :).
+
+---
+
+See ya folks
