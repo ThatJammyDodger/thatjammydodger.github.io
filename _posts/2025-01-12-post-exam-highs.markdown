@@ -10,7 +10,7 @@ header:
 toc: true
 ---
 
-Now that those pesky exams are past me, let me do a lil bit of a recap, almost like a "wrapped", but probably wors...
+Now that those pesky exams are past me, let me do a lil bit of a recap, almost like a "wrapped", but probably worse...
 
 ## What a season
 Sep '24 to Jan '25
