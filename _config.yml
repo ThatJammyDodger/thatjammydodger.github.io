@@ -22,8 +22,8 @@ title: "Jay's Virtual Home"
 subtitle: "A place for me on the web"
 name: "Jay Ambadkar"
 email: "ambadkarj123@gmail.com"
-domain: "thatjammydodger.github.io"
-url: "https://thatjammydodger.github.io/"
+domain: "jayambadkar.github.io"
+url: "https://jayambadkar.github.io/"
 description: >- # this means to ignore newlines until "baseurl:"
   "Hi! Seems you've found my site and I hope you like it. Commiserations if not.
   Really it's just a place for me to hang out digitally and put some stuff I like on.
@@ -32,7 +32,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter:
   username: "JayAmbadkar"
-github_username:  "ThatJammyDodger"
+github_username:  "jayambadkar"
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
@@ -89,7 +89,7 @@ author:
       url: "https://www.youtube.com/channel/UCSEe39hrg0JbrrFzXvuefrw"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/ThatJammyDodger"
+      url: "https://github.com/jayambadkar"
     - label: "Email"
       icon: "far fa-fw fa-envelope"
       url: "mailto:ambadkarj123@gmail.com"
