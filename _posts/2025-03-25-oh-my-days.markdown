@@ -1,0 +1,123 @@
+---
+layout: single
+title: Oh my days
+subtitle: A b c d z f
+date: 2025-01-15
+categories: life uni
+header:
+    teaser: /assets/images/thumbnails/huxley.jpg
+
+toc: true
+---
+
+Keep learning! Starting with "a b c d z f..." (in retrospect, that sells this post really badly)
+
+
+## S'up?
+What do you think of when you think about university? Books, libraries, lectures, exams, work, or the social bits? Now the mix of things that go on at some universities are rather bizarre. In fact, I'd argue that one of the weirdest things to happen to me so far is the delinearisation of time, cause and effect. 
+
+Yes, you read that right, and not just because I need to fill the time of a 3h exam with only 1h worth of writing stuff I actually know...
+
+> I should clarify that this applies mostly in a metaphorical sense, for instance I'd be rather distraught if I got a runtime error in a Java executable because it tried to run line 67 before the package declaration. Conversely I might be delighted if the laws of mathematics permitted a consistent axiomatic system in which you could rigorously allow non-deterministic proofs.
+
+Pottering aside, now might be the time to begin rambling about a few of the things that have gone on the last few months.
+
+### Real intro to concurrency
+v - _me in a coding exam_
+Yes, this is totally what you should always do. Generates every article you could ever imagine better than ChatGPT and is in fact correct in the partial sense :)
+```csharp
+class Article {
+    public async Task<string> getArticle(){
+        return await TextPiece.makeText();
+    }
+}
+
+class TextPiece {
+    public async Task<string> makeText(){
+        return await Article.getArticle();
+    }
+}
+
+SendToBlog(await Article.getArticle());
+```
+
+---
+
+## Uni-ing
+Had to go back to uni, which was quite a nice thing in fairness.
+### Dull-ish January
+It's funny cos there were 4 proper weeks of stuff going on in January, yet all I can remember off the top of my head is the maths midterm exams, Haskelling, and something about the determinant of a matrix. That too I probably only remember because the results of the midterms and Haskell weren't as total a disappointment as I otherwise expected.
+
+This sounds really bad mentally but those two marks I lost in the Haskell exam might possibly haunt my dreams for a while yet to come.
+
+Oh yeah, now I've checked my calendar, I now remember that I messed up multiple interviews that month :/. Based on that, let me now unveil some top tips of mine:
+- if they include a property in a class, it's probably going to be quite important to at least consider what it's doing there
+- if you have a choice between treating dates using a standard DateTime library and your own rubbish, maybe choose the former
+- decimals and doubles are not the same since accuracy errors are a thing
+
+and now my big tip:
+- do not tell the interviewer that you are ineligible for the role when you are in fact eligible
+
+Separately, I also got rejected for the Palantir Launch programme in January which really stung if I'm being honest. Most rejections sting a little, but this one really did since I put a real lot of effort into this one and had already reached the final stage.
+
+> We want you to know that every application was thoughtfully considered, and with so many talented and accomplished individuals, deciding who to move forward with was extremely difficult. It is with great regret that we inform you that your application was not selected for the Launch Program.
+
+At that point, I really had a loss of confidence, especially around the fact of whether I'd be able to make it in the tech industry. Truth is that I still don't know. The only thing holding me together is a rebuilt baseline of self-belief, founded upon a new echelon of effort and rethought motivation.
+
+### Unforgettable February
+Yep, went to ICHack which was cool. May not have won anything, but it was an awesome experience nonetheless. It had the lot:
+- community
+- fun
+- social events
+- hacking
+- judging
+- tonnes of food
+- accidental disqualification
+
+Now the others you can read loads about on various LinkedIn posts, but the most memorable, and simultaneously funny yet mindnumbing, bit was when my team got accidentally secretly disqualified by one of the directors.
+
+We _did not know_ we were disqualified, and all I had was a sneaking suspicion when the judges meandered past our demo not giving it a second look. So I went to the super secret hacking HQ to investigate. Long story short, they examined our git commits and my browser history, quickly established that no cheating had gone on and undisqualified us. Big up the president of DocSoc for making the right decision.
+
+---
+
+Anyway, ICHack was a laugh, and not long later I decided to enter the Palantir DevCon Fellowship with an entry of my own. It was a shame to discover that my original idea was against [AIP's terms of use](https://palantir.pactsafe.io/#ucr-985315) (pls don't ask).
+
+So with just under 30 hours to deadline and also a Friday at uni packed with lectures that I inexplicably did not want to miss, I pretty much pulled two all-nighters to get my submission done. Kudos to Sean and George from Palantir for really encouraging me during the office hours to get it done! (yes, Palantir does office hours)
+
+My production quality wasn't great - the recording of me was done using an MS Teams overlay and the product walkthrough at 3am after 10 takes - not to mention some dodgy iMovie editing.
+
+Yet, a few days later, I saw something unusual in my inbox...
+> Congratulations! You're a DevCon2 Fellowship Winner
+
+But that whole thing is a story for another time.
+
+---
+
+I grew older!
+
+(not much more to say here)
+
+### And now March
+
+Did some work, had some friends over and blundered through the Kotlin Interim Test. Fairly good month all things considered.
+
+Started reading Karp's _The Technological Republic_, which is a must read imo, **even if** you don't agree with the opinions and perspectives raised. Essential just because these perspectives have ducked out of the mainstream in an extraordinary way, and the path of the tech industry, clearly so vital to humanity's future, has no real unified direction currently.
+
+Roughly speaking, you have your Silicon Valley firms, your hedge funds and moneymakers, your Palantir's, your SaaSs and consultancies. For technology with such great potential, a few of these truly massive industries seem kind of like a pottering for really remarkable tech talent.
+
+And now all I need to do is revise and prepare for my May exams - frightful stuff!
+
+> A little bonus fact
+
+You know I mentioned I was rejected from the Palantir Launch in January - well I was unrejected! That was really nice to hear, and I'll leave the details to your imagination.
+
+## Hidden bits
+If you've been reading this post super carefully, or have seen my LinkedIn, you'll know that I omitted something quite consequential that happened to me about a month ago.
+
+Watch this space.
+
+---
+
+As always, any questions or if you want to discuss something then just contact me by email, LinkedIn messages (though don't send a connection request unless there actually is some kind of connection) or on X. 
+
+If not busy, I'd be more than happy to discuss away!

@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Jay's Virtual Home"
-subtitle: "A place for me on the web"
+title: "Jay's Virtual Hideout"
+subtitle: "Mon sanctuaire en ligne"
 name: "Jay Ambadkar"
 email: "ambadkarj123@gmail.com"
 domain: "jayambadkar.github.io"
@@ -35,7 +35,7 @@ twitter:
 github_username:  "jayambadkar"
 
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 plugins:
   - jekyll-include-cache
   - jekyll-feed
@@ -79,7 +79,7 @@ author:
   location: "North of London, UK, Near Mars"
   links:
     - label: "X (formerly Twitter)"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-x-twitter"
       url: "https://twitter.com/JayAmbadkar"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
