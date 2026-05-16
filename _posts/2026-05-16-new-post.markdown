@@ -2,7 +2,7 @@
 layout: single
 title: NEW POST!!!
 subtitle: A b c d z f
-date: 2025-01-15
+date: 2026-05-16
 categories: life uni
 header:
     teaser: /assets/images/thumbnails/tshirt.jpg
