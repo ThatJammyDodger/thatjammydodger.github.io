@@ -1,0 +1,116 @@
+---
+layout: single
+title: NEW POST!!!
+subtitle: A b c d z f
+date: 2025-01-15
+categories: life uni
+header:
+    teaser: /assets/images/thumbnails/tshirt.jpg
+
+toc: true
+---
+
+IT'S BEEN SO LONG! HIII...
+
+# Why so long
+Loyal readers might notic that it has been more than a year since I last posted. Very simple reason for this. I haven't taken the time to write a post in that long :(
+
+In fact, I probably should have taken the time to, but I didn't find the strength to. Probably because I didn't know what to write, didn't think I could word things well, or for fear of being judged for my affiliations.
+
+No fear though - I now write and post in confidence!
+
+# Updates
+Since I last posted in March 2025, I'll just put some life-y updates here.
+## March - August 2025
+* Went to the Palantir Launch event in London
+* Revised for exams (which was itself a stressful endeavour)
+* Went to MoS for once 😳
+* Caught up on sleep
+* Made a smart mirror using C
+* Interned in Software // Simulation Engineering @ Angstrom (FT)
+* Interned as an Engineer @ Stewardshipped.ai
+* Caught sleep deprivation
+* Received an offer to join Palantir as an FDE intern
+* Received G-Research & Dean's List prizes for EoY exam results (#2 in cohort exam scores)
+* Worried unnecessarily
+* Came back to Norwich
+
+## September - December 2025
+* Started a new year at Imperial
+* Tried all kinds of new food
+* Did the canon Imperia Computing PintOS project
+* Went to the DoCSoc QRT hackathon (oooooo) and met a super awesome and cool person there lol
+* Panicked about operating systems
+* Got an offer from XTX Markets to join as an intern
+* Did some more maths
+* (Actually yeah did lots of maths that I didn't rlly mention much)
+* Helped run the JMC Christmas Party ***woah***
+* Went ice skating
+* Fell over ice skating
+* Fell over again
+* And again
+* ...
+* Went Winter Wonderland which was cool!
+* Returned home for the Christmas break
+
+## January 2026 - Present
+* Having some really good times
+* Integration bee + ICMC Team Comp - came not last in both!
+* Worked on the WACC project
+* Went bouldering
+* Panikkkkkkk
+* More part time work for big boss
+* Resolved panik by actually doing the maths revision I needed to
+* Pottered about
+* Grew older again (time defied me soz)
+* Ran back an epic April Fool's prank
+* Went India and saw some tigers, and ate some cool ass food
+* More panik after coming back from India and noticing I had exams coming
+* Resolve panik by revising and sitting exams
+* Panik again for results
+
+And here we are. With me writing this post. LOL
+
+![PANIKKKKK!](\assets\images\in_posts\panik-meme.jpg){:width="60%" align="center"}
+
+# Coolest topics I've come across recently
+* OS: multi-core scheduling and cache affinity.
+I think this is particularly interesting, given its potential applications to the LLM boom. If multiple people are asking the same prompts as others, then this makes token caching ever more important, and likewise access to cached tokens for users who ask similar kinds of prompts.
+
+* Delivering impact, and what it takes to go from Zero to One.
+If you know the reference, then yes, that book. And I rate it.
+
+* Localised analysis of differential equations. Such as Poincaré-Bendixson in 2D, and the notion of Picard iterates in Picard-Lindelöf local version.
+This is just cool.
+
+* Euler-Lagrange equation for minimising integrals based on rates of change. Again, cool.
+
+* Bounding errors in numerical analyses. Not so much cool or conceptually difficult, but I had never really thought about it before.
+
+* The importance of memory in AI systems. That is, empowering the symbiosis of human expertise with artificial intelligence systems, and how we can get the most out of them.
+
+# Thoughts on AI
+Yesterday, there were some nice people at Euston station who started talking to us about random stuff. I mentioned hope, and its importance. But later I thought more about what was said.
+
+I'm concerned about AI. Not in a bad way, but of course I guess somewhat about how it will affect my ability to make a living.
+
+So maybe in a bad way a bit. But I'm definitely lucky to be in the position that I am, especially after seeing a Communist stall on campus, talking to one of the people there who turned out to be a JMC.
+
+> "Not getting an internship was what radicalised me.
+
+RIP. But in seriousness, while I decidedly disagree with Marxist doctrine, I think there is genuine need of longer-range foresight on the near time horizon. Without this, things could go very wrong.
+
+Lots of people are banking on the hope of job creation. The obvious problem with this aim is that this is not happening. Instead, individual people are becoming 10x more impactful with AI, and once we have that, then my theory is that any company simply has less need to hire the other 9. Of course, I may be, and very well hope I am, wrong.
+
+Anyway, that's my fear on how the AI era sharply contrasts with the industrial revolution and the chip boom of 1960--. Conversely, we simply might not be mature enough with the tech yet and the growth is yet to come. Though my instincts are leaning on the former point at the moment.
+
+
+> "I was also sad about how the people we spoke to at Euston were very anti-Papa Elon.
+
+# Hopes and Dreams
+Watch this space.
+
+# Afterword
+I wrote this on a train in a rush, so this is post is more a snapshot of some of my thoughts as opposed to anything more substantial. There could very well be mistakes or inaccuracies. 
+
+So if you notice anything or want to just chat generally, then do send me an email :)
